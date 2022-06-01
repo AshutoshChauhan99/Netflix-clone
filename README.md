@@ -1,9 +1,14 @@
 # Technologies learnt and used
 API used from TMDB Movie Api
+
 ES7 and ES6 javascript syntax
+
 Use of React Hooks
+
 Youtube trailer used from react-youtube package
+
 CSS designs to mimic the actual Netflix Website
+
 Output can be viewed here click on this link:https://netflix-clone-12935.web.app/  
 
 ## Available Scripts
